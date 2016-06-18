@@ -1,0 +1,44 @@
+# script.open-zwave language file
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#: Notifications
+msgctxt "#32001"
+msgid "Switching the light on..."
+msgstr ""
+
+msgctxt "#32002"
+msgid "Switching the light off..."
+msgstr ""
+
+#: Settings
+msgctxt "#32110"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#32111"
+msgid "USB stick port"
+msgstr ""
+
+msgctxt "#32112"
+msgid "Notifications"
+msgstr ""
+
+msgctxt "#32113"
+msgid "Debugging"
+msgstr ""
+
+msgctxt "#32120"
+msgid "Testing"
+msgstr ""
+
+msgctxt "#32121"
+msgid "Switch all on"
+msgstr ""
+
+msgctxt "#32122"
+msgid "Switch all off"
+msgstr ""

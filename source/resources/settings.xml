@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<category label="32110">
+    	<setting label="32111" type="text" id="port" default="/dev/ttyUSB0"/>
+    	<setting label="32112" type="bool" id="notify" default="true" />
+    	<setting label="32113" type="bool" id="debug" default="false" />
+    </category>
+	<category label="32120">
+		<setting label="32121" type="action" action="RunScript(script.open-zwave.switchall, 1)"/>
+		<setting label="32122" type="action" action="RunScript(script.open-zwave.switchall, 2)"/>
+    </category>
+</settings>
